@@ -12,3 +12,6 @@ As a part of their expansion plans, AtliQ Motors wanted to launch their bestsell
 ![data model](https://github.com/user-attachments/assets/d28bb62b-6b16-41f6-aa24-ddb9ba9b5ca5)
 
 ## Home Page
+![home](https://github.com/user-attachments/assets/12d92feb-4c43-443b-bec0-4dcb613e5995)
+
+## State Analysis Page
